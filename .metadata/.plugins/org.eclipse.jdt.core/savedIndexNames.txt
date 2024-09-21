@@ -75,7 +75,6 @@ INDEX VERSION 1.134+C:\aisData\in28minutesPractise\learn-jpa-and-hibernate\.meta
 3891091878.index
 3948322288.index
 2903267497.index
-3140156823.index
 3074472078.index
 2787927146.index
 3202037610.index
